@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there.
 
-<!--
-**KyouBrayden/KyouBrayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of Business at The Open Polytechnic of New Zealand | Te Pūkinga.
 
-Here are some ideas to get you started:
+I love writing and reading documentation!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+
+These change a lot!
+
+### Books
+
+- Adachi and Shimamura
+- K-ON!
+- Spice and Wolf
+
+### Games
+
+- CLANNAD
+- Spice and Wolf I, Spice and Wolf II
+
+### Film & Television
+
+- Shinkai Makoto
+- Heaven's Memo Pad
+- Spice and Wolf
+
+### Music
+
+- Takahashi Yū
+- Tōyama Nao
+- RADWIMPS
